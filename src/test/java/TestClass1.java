@@ -1,6 +1,6 @@
 import org.testng.annotations.Test;
 
-public class TestClass1 extends BaseTest {
+public class TestClass1 {
 
     @Test(groups = {"TEST2"}, invocationCount = 3)
     public void test1() {

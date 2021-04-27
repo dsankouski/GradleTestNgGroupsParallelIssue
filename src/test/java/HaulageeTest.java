@@ -1,3 +1,3 @@
-public class HaulageeTest extends BaseTest {
+public class HaulageeTest {
 
 }
